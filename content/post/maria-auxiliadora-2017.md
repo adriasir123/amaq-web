@@ -15,4 +15,4 @@ Otro 24 de Mayo hemos podido tocar detrás de María Auxiliadora en su salida de
 
 Petalada En Perafán de Rivera
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VH6p2cufa5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube VH6p2cufa5s >}}
