@@ -1,6 +1,6 @@
 ---
-date: 2014-04-14
-featured_image: "/images/lunes-santo-jerez.jpg"
+date: 2016-04-14
+featured_image: "/images/banner-lunes-jerez.jpg"
 title: "Lunes Santo en Jerez"
 omit_header_text: true
 ---
