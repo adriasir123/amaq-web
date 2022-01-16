@@ -15,7 +15,7 @@ Interior de la iglesia - Caridad del Gualquivir
 
 Salida de Santa Marta - Parte 1
 
-{{< youtube VGq0tLwyKok&t=1164s >}}
+{{< youtube VGq0tLwyKok >}}
 
 Salida de Santa Marta - Parte 2
 
