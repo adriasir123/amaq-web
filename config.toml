@@ -34,3 +34,7 @@ url = "https://twitter.com/bandaalvarezqui?lang=es"
 [[params.ananke_socials]]
 name = "instagram"
 url = "https://www.instagram.com/bandaalvarezquintero/"
+
+[[params.ananke_socials]]
+name = "facebook"
+url = "https://es-la.facebook.com/bandaalvarezquintero.utrera"
