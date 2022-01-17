@@ -1,6 +1,6 @@
 title = "Álvarez Quintero Banda"
 weight = 1
-baseURL = "https://eager-jepsen-348308.netlify.app"
+baseURL = "http://www.alvarezquinterobanda.com"
 languageCode = "es"
 theme = "ananke"
 resourceDir = "../resources"
