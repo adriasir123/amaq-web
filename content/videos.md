@@ -74,3 +74,33 @@ II Concierto
 
 
 # Semana Santa y Cofradías
+
+## «Jerusalén» en el Corpus Christi de Utrera – 2011
+
+{{< youtube oo_lKlCc6-Y >}}
+
+## Salida procesional de la Virgen de Consolación de Utrera – 2013
+
+{{< youtube lcd74kl4sFE >}}
+
+(Vídeo por: [UTRERAWeb Canal Cofrade](https://www.youtube.com/channel/UCkCUB3iJG7SjzdAPLT-lndQ))
+
+## 50 Años Coronación de la Virgen de Consolación de Utrera – 2014
+
+Parte 1
+
+{{< youtube m1Irt-Bjoxg >}}
+
+(Vídeo por: [UTRERAWeb Canal Cofrade](https://www.youtube.com/channel/UCkCUB3iJG7SjzdAPLT-lndQ))
+
+Parte 2
+
+{{< youtube 6vVRz0EtplA >}}
+
+(Vídeo por: [UTRERAWeb Canal Cofrade](https://www.youtube.com/channel/UCkCUB3iJG7SjzdAPLT-lndQ))
+
+Parte 3
+
+{{< youtube T8bhxlAyo-o >}}
+
+(Vídeo por: [UTRERAWeb Canal Cofrade](https://www.youtube.com/channel/UCkCUB3iJG7SjzdAPLT-lndQ))
