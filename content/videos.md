@@ -16,7 +16,7 @@ menu: main
 
 ## Flashmob en la Plaza del Altozano – 2013
 
-{{< youtube a2OiMUBPpXQ-A >}}
+{{< youtube a2OiMUBPpXQ >}}
 
 (Vídeo por: [UVITEL Producciones](https://www.youtube.com/channel/UCPOr12PTVWMX3xOMiGZyXsA))
 
