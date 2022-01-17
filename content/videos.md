@@ -1,6 +1,6 @@
 ---
 title: "Vídeos"
-description: "Esta es nuestra galería de vídeos"
+description: "Vídeos recopilando nuestras actuaciones"
 featured_image: "/images/actuaciones-banner.jpg"
 type: page
 menu: main

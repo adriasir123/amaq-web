@@ -1,6 +1,6 @@
 ---
 title: "Imágenes"
-description: "Esta es nuestra galería de imágenes"
+description: "Nuestras imágenes ordenadas por año"
 featured_image: "/images/actuaciones-banner.jpg"
 type: page
 menu: main
