@@ -1,6 +1,6 @@
 title = "Álvarez Quintero Banda"
 weight = 1
-baseURL = "http://www.alvarezquinterobanda.com"
+baseURL = "https://www.alvarezquinterobanda.com"
 languageCode = "es"
 theme = "ananke"
 resourceDir = "../resources"
