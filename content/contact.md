@@ -29,4 +29,4 @@ Director: Sergio Calle Moreau 666 291 052
 
 Si quieres rellena el siguiente formulario con tus comentarios. Nos pondremos en contacto contigo tan pronto nos sea posible.
 
-{{< form-contact action="https://formspree.io/webalvarezquintero@gmail.com" >}}
+{{< form-contact action="https://formspree.io/f/xdobagrw" >}}
