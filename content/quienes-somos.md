@@ -1,5 +1,5 @@
 ---
-title: "Quienes Somos"
+title: "Quiénes Somos"
 description: "A continuación encontrarás información sobre nuestra Asociación, y de dónde venimos"
 featured_image: "/images/quienes-somos-banner.jpg"
 type: page
