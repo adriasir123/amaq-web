@@ -20,7 +20,7 @@ Local de ensayos: Colegio Público Álvarez Quintero (Avda. Los Naranjos s/n Utr
 
 # Teléfonos de contacto
 
-Presidente: José Miguel Sanz Durá 686 417 879
+Presidente: José Miguel Sanz Durá 686 417 879  
 Director: Sergio Calle Moreau 666 291 052
 
 
