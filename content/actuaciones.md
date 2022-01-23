@@ -1,9 +1,14 @@
 ---
 title: "Actuaciones"
-description: "La Asociación Musical Álvarez Quintero tiene un amplio programa de actuaciones a nivel autonómico a lo largo de todo el año por lo que sus miembros suelen estar ensayando durante todo el año"
-featured_image: "/images/actuaciones-banner.jpg"
-type: page
-menu: main
+summary: "La Asociación Musical Álvarez Quintero tiene un amplio programa de actuaciones a nivel autonómico a lo largo de todo el año por lo que sus miembros suelen estar ensayando durante todo el año"
+
+reading_time: false  # Show estimated reading time?
+profile: false  # Show author profile?
+
+# Optional header image (relative to `assets/media/` folder).
+header:
+  caption: "actuaciones-banner.jpg"
+  image: "actuaciones-banner.jpg"
 ---
 
 La Asociación Musical Álvarez Quintero tiene un amplio programa de actuaciones a nivel autonómico a lo largo de todo el año por lo que sus miembros suelen estar ensayando durante todo el año.
