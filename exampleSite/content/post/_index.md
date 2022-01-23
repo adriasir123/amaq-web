@@ -13,5 +13,3 @@ header:
   caption: ""
   image: ""
 ---
-
-Aquí puedes leer nuestras últimas noticias.

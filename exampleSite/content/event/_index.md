@@ -1,6 +1,5 @@
 ---
-title: Posts
-cms_exclude: true
+title: Recent & Upcoming Talks
 
 # View.
 #   1 = List
@@ -13,5 +12,3 @@ header:
   caption: ""
   image: ""
 ---
-
-Aquí puedes leer nuestras últimas noticias.
