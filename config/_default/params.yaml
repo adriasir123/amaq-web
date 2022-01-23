@@ -20,40 +20,35 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: webalvarezquintero@gmail.com
+phone: 686 417 879 (presidente)
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Carr. Utrera, 84
+  city: Utrera
+  region: SE
+  postcode: '41710'
+  country: España
   country_code: US
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+directions: Temporalmente por COVID usando el local de ensayos de muchachos
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  - 'Sábados 17:00 a 19:00'
+#  - 'Wednesday 09:00 to 10:00'
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
+    name: Síguenos en Twitter
+    link: 'https://twitter.com/bandaalvarezqui?lang=es'
+  - icon: instagram
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
+    name: Síguenos en Instagram
+    link: 'https://www.instagram.com/bandaalvarezquintero/'
+  - icon: facebook
     icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: Síguenos en Facebook
+    link: 'https://es-la.facebook.com/bandaalvarezquintero.utrera'
 
 # Site header
 
