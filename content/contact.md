@@ -28,5 +28,3 @@ Director: Sergio Calle Moreau 666 291 052
 # Dudas
 
 Si quieres rellena el siguiente formulario con tus comentarios. Nos pondremos en contacto contigo tan pronto nos sea posible.
-
-{{< form-contact action="https://formspree.io/f/xdobagrw" >}}
