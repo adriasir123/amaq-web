@@ -5,7 +5,7 @@
 
 main:
   - name: Actuaciones
-    url: '#actuaciones'
+    url: '/actuaciones'
     weight: 10
   - name: Posts
     url: '#posts'
