@@ -1,9 +1,10 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Moisés Redaño López
 
 # Is this the primary user of the site?
 superuser: true
+user_groups: ["Directores"]
 
 # Role/position/tagline
 role: Professor of Artificial Intelligence
