@@ -1,5 +1,6 @@
 ---
 widget: people
+title: Personal
 cms_exclude: true
 headless: true  # This file represents a page section.
 
