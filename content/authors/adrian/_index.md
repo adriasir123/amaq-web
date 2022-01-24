@@ -1,9 +1,10 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Adrián Jaramillo Rodríguez
 
 # Is this the primary user of the site?
 superuser: true
+user_groups: ["Mantenedores"]
 
 # Role/position/tagline
 role: Professor of Artificial Intelligence
