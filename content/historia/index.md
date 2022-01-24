@@ -13,7 +13,7 @@ header:
 
 # Nombre
 
-![screen reader text](hermanos-alvarez-quintero.jpg "caption")
+![](hermanos-alvarez-quintero.jpg)
 
 El nombre de la banda viene de dos célebres utreranos, Joaquín y Serafín Álvarez Quintero, comediógrafos utreranos del siglo XIX.
 
@@ -23,9 +23,11 @@ El éxito de la comedia les impulsa a viajar a Madrid, donde, a partir de 1889, 
 
 Fueron nombrados hijos predilectos de Utrera y Sevilla y adoptivos de Málaga y Zaragoza. Sus obras fueron traducidas a todos los idiomas; se representaron en las más apartadas latitudes y sus autores gozaron de innumerables homenajes.
 
+
+
 # La Banda
 
-![](/images/gorra-antigua.jpg)
+![](gorra-antigua.jpg)
 
 Se funda la Agrupación Musical Álvarez Quintero de Utrera en 1963 tras la decisión de varios amigos aficionados a la música, pero por vicisitudes de la vida solo están actuando hasta la semana santa de 1965.
 
@@ -35,15 +37,19 @@ En estos años de experiencia la banda ha sembrado un historial elogiable, con u
 
 En el aspecto musical y técnico, la plantilla está compuesta por flautas, oboes, fagot, clarinetes, saxofones, trompetas, cornetas, fliscornos, trombones, trompas, bombardinos, tubas y sección de percusión.
 
+
+
 # La Asociación
 
-![](/images/la-asociacion.jpg)
+![](la-asociacion.jpg)
 
 Es en el año 2001 cuando se constituyen como asociación musical, dando forma reglada a sus actividades.
 
 Aunque la banda de música es el principal elemento de la asociación, no es el único, pues además de esta, cabe destacar la aportación de nuevos músicos gracias a las aulas de música dirigidas por los propios componentes de la banda, que se han encargado de educar a los nuevos músicos que quieren iniciarse en este bello arte de la música y deseaban entrar a formar parte de la banda.
 
 En la actualidad son numerosos los músicos que han salido y siguen saliendo de estas aulas para aportar su trabajo como un componente más.
+
+
 
 # Asocia2 - Asociación Musical Álvarez Quintero
 
