@@ -8,11 +8,6 @@ weight: 10  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-
-# Optional header image (relative to `assets/media/` folder).
-header:
-  caption: "contacto.png"
-  image: "contacto.png"
 ---
 
 # Cómo llegar
