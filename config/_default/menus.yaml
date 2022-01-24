@@ -7,11 +7,14 @@ main:
   - name: Quiénes Somos
     url: '/quienes-somos'
     weight: 10
-    identifier: "reference"
+    identifier: "quienes-somos"
+  - name: Historia
+    url: '/historia'
+    weight: 10
+    parent: "quienes-somos"
   - name: Actuaciones
     url: '/actuaciones'
     weight: 20
-    parent: "reference"
   - name: Imágenes
     url: '/imagenes'
     weight: 30
