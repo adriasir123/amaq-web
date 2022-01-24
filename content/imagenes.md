@@ -11,7 +11,7 @@ header:
   image: "actuaciones-banner.jpg"
 ---
 
-{{< gallery album="<2017-insignia-oro-moi>" >}}
+{{< gallery album="2017-insignia-oro-moi" >}}
 
 # 2017
 
