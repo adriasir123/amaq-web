@@ -12,6 +12,10 @@ main:
     url: '/historia'
     weight: 10
     parent: "quienes-somos"
+  - name: Patrimonio
+    url: '/patrimonio'
+    weight: 10
+    parent: "quienes-somos"
   - name: Actuaciones
     url: '/actuaciones'
     weight: 20
