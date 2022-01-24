@@ -3,7 +3,7 @@
 title: Moisés Redaño López
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 user_groups: ["Directores"]
 
 # Role/position/tagline
@@ -71,8 +71,14 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Actual director de la banda desde el año 2008. Nace en el año 1981. A los 8 años de edad ingresa en el conservatorio elemental de música de Utrera en la especialidad de saxofón con el profesor Alfonso Romero y al mismo tiempo en la Agrupación Musical Álvarez Quintero bajo la batuta del maestro Felipe Piñero.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Realizó sus estudios de grado medio en el Conservatorio Superior de Música de Sevilla en la especialidad de saxofón y estudió el grado elemental de trompeta en el Conservatorio de Utrera.
+
+Con diferentes cursos de perfeccionamiento tanto de saxofón con el Catedrático de Sevilla, Jose Antonio Santos, como de dirección con grandes profesores como, Evilasio Ventura, Norman Milanes o Juan Manuel Busto, ha dirigido la banda regional de Castilla la Mancha y la Banda de Guadalcanal.
+
+Ha aparticipado también en diversos congresos de bandas como ponente, mesas redondas, etc.
+
+En 2017 se le hace entrega de la insignia dorada, galardón concedido a los miembros de la banda con una antigüedad en ella de 25 años ininterrumpidamente.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

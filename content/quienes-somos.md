@@ -98,38 +98,6 @@ Aquellos componentes que cumplen 25 años de forma ininterrumpida formando parte
 
 
 
-# Directores
-
-## D. Felipe Piñero De Quinta
-
-![](/images/felipepinero.jpg)
-
-Utrerano de dilatada trayectoria musical, maestro, socio fundador y director de la misma hasta el año 2008 en el que cede la batuta a D. Moisés Redaño López.
-
-Nace en Utrera en el año 1932 realizando sus estudios en el colegio Salesianos de Utrera, en el que entra a formar parte de la banda del colegio en la modalidad de saxofón hasta su extinción. Posteriormente pasa al "Frende de Juventudes" como músico, acudiendo al Congreso Eucarístico del año 1952 y en dos ocasiones a San Isidro en Madrid.
-
-Componente de la orquesta "Bemol Jazz" y años después, en 1969 entra junto con Alfonso Romero en una nueva orquesta llegando a tocar por toda Andalucía y el Sur de Portugal.
-
-Cuenta con multitud de galardones y homenajes entre los que podemos destacar el Mostachón de la Orden del Mostachón de la Ciudad de Utrera en el año 1984, el homenaje que le realiza la Agrupación Musical Álvarez Quintero en el año 1985, la insignia dorada de la asociación en el año 1988, el reconocimiento por parte del Ayuntamiento de Utrera en el año 1999, junto con el homenaje de los antiguos componentes de Álvarez Quintero y goza de una calle en su honor en Utrera inaugurada en mayo del año 2000.
-
-## Moisés Redaño López
-
-![](/images/moisesredano.jpg)
-
-Actual director de la banda desde el año 2008. Nace en el año 1981. A los 8 años de edad ingresa en el conservatorio elemental de música de Utrera en la especialidad de saxofón con el profesor Alfonso Romero y al mismo tiempo en la Agrupación Musical Álvarez Quintero bajo la batuta del maestro Felipe Piñero.
-
-Realizó sus estudios de grado medio en el Conservatorio Superior de Música de Sevilla en la especialidad de saxofón y estudió el grado elemental de trompeta en el Conservatorio de Utrera.
-
-Con diferentes cursos de perfeccionamiento tanto de saxofón con el Catedrático de Sevilla, Jose Antonio Santos, como de dirección con grandes profesores como, Evilasio Ventura, Norman Milanes o Juan Manuel Busto, ha dirigido la banda regional de Castilla la Mancha y la Banda de Guadalcanal.
-
-Ha aparticipado también en diversos congresos de bandas como ponente, mesas redondas, etc.
-
-En 2017 se le hace entrega de la insignia dorada, galardón concedido a los miembros de la banda con una antigüedad en ella de 25 años ininterrumpidamente.
-
-
-
-
-
 
 # Repertorio
 
