@@ -35,13 +35,17 @@ main:
   - name: Multimedia
     weight: 90
     identifier: "multimedia"
-  - name: Imágenes
-    url: '/imagenes'
+  - name: Fotos
+    url: '/fotos'
     weight: 100
+    parent: "multimedia"
+  - name: Vídeos
+    url: '/videos'
+    weight: 110
     parent: "multimedia"
   - name: Contacto
     url: '/contacto'
-    weight: 110
+    weight: 120
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

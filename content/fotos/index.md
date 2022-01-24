@@ -1,6 +1,6 @@
 ---
-title: "Imágenes"
-summary: "Nuestras imágenes ordenadas por año"
+title: "Fotos"
+summary: "Nuestras fotos ordenadas por año"
 
 profile: false  # Show author profile?
 comments: false  # Show comments?
