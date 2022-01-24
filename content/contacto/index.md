@@ -1,9 +1,11 @@
 ---
-title: Contacto
-featured_image: "/images/contacto.png"
-omit_header_text: true
-type: page
-menu: main
+type: widget_page
+# title: Contacto
+
+# Optional header image (relative to `assets/media/` folder).
+header:
+  caption: "contacto.png"
+  image: "contacto.png"
 ---
 
 # Cómo llegar
