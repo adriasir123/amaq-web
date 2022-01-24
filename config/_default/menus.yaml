@@ -5,40 +5,40 @@
 
 main:
   - name: Quiénes Somos
-    url: '/quienes-somos'
+    #url: '/quienes-somos'
     weight: 10
     identifier: "quienes-somos"
   - name: Historia
     url: '/historia'
-    weight: 10
+    weight: 20
     parent: "quienes-somos"
   - name: Patrimonio
     url: '/patrimonio'
-    weight: 10
+    weight: 30
     parent: "quienes-somos"
   - name: Repertorio
     url: '/repertorio'
-    weight: 10
+    weight: 40
     parent: "quienes-somos"
   - name: Discografía
     url: '/discografia'
-    weight: 10
+    weight: 50
     parent: "quienes-somos"
   - name: Actuaciones
     url: '/actuaciones'
-    weight: 20
+    weight: 60
   - name: Imágenes
     url: '/imagenes'
-    weight: 30
+    weight: 70
   - name: Vídeos
     url: '/videos'
-    weight: 40
+    weight: 80
   - name: Blog
     url: '/post'
-    weight: 50
+    weight: 90
   - name: Contacto
     url: '/contacto'
-    weight: 60
+    weight: 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
