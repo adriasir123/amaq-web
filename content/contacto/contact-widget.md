@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Contacto
-subtitle:
+title: Formulario
+subtitle: Escríbenos, ¡te responderemos lo antes posible!
 
 content:
   # Automatically link email and phone or display as text?

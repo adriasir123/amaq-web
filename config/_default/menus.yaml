@@ -16,10 +16,10 @@ main:
   - name: Vídeos
     url: '/videos'
     weight: 40
-  - name: Posts
+  - name: Blog
     url: '#posts'
     weight: 50
-  - name: Contact
+  - name: Contacto
     url: '/contacto'
     weight: 60
 
