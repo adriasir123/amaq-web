@@ -7,7 +7,7 @@ superuser: false
 user_groups: ["Directores"]
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Socio fundador y primer director
 
 # Organizations/Affiliations to show in About widget
 organizations:
