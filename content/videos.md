@@ -11,8 +11,6 @@ header:
   image: "actuaciones-banner.jpg"
 ---
 
-{{< gallery album="video-test" >}}
-
 # Concierto y Actuaciones
 
 ## Festival Taurino 2012
