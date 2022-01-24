@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Álvarez Quintero Banda # Website name
-baseurl: 'http://dev.alvarezquinterobanda.com/' # Website URL
+baseurl: 'https://dev.alvarezquinterobanda.com/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
