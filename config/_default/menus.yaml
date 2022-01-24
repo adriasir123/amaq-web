@@ -7,9 +7,11 @@ main:
   - name: Quiénes Somos
     url: '/quienes-somos'
     weight: 10
+    identifier: "reference"
   - name: Actuaciones
     url: '/actuaciones'
     weight: 20
+    parent: "reference"
   - name: Imágenes
     url: '/imagenes'
     weight: 30
@@ -17,7 +19,7 @@ main:
     url: '/videos'
     weight: 40
   - name: Blog
-    url: '#posts'
+    url: '/post'
     weight: 50
   - name: Contacto
     url: '/contacto'
