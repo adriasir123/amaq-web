@@ -13,10 +13,7 @@ content:
   user_groups:
     - Mantenedores
     - Directores
-    - Grad Students
-    - Administration
-    - Visitors
-    - Alumni
+
 design:
   # Show user's social networking links? (true/false)
   show_social: false
@@ -26,4 +23,5 @@ design:
   show_role: true
   # Show user's organizations/affiliations?
   show_organizations: true
+  view: 3
 ---
