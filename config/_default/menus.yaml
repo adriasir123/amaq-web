@@ -13,10 +13,12 @@ main:
   - name: Imágenes
     url: '/imagenes'
     weight: 30
+  - name: Vídeos
+    url: '/videos'
+    weight: 40
   - name: Posts
     url: '#posts'
-    weight: 30
-
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60

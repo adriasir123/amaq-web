@@ -1,10 +1,17 @@
 ---
 title: "Vídeos"
-description: "Vídeos recopilando nuestras actuaciones"
-featured_image: "/images/actuaciones-banner.jpg"
-type: page
-menu: main
+summary: "Vídeos recopilando nuestras actuaciones"
+
+profile: false  # Show author profile?
+comments: false  # Show comments?
+
+# Optional header image (relative to `assets/media/` folder).
+header:
+  caption: "actuaciones-banner.jpg"
+  image: "actuaciones-banner.jpg"
 ---
+
+{{< gallery album="video-test" >}}
 
 # Concierto y Actuaciones
 
