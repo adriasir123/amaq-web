@@ -20,6 +20,10 @@ main:
     url: '/repertorio'
     weight: 10
     parent: "quienes-somos"
+  - name: Discografía
+    url: '/discografia'
+    weight: 10
+    parent: "quienes-somos"
   - name: Actuaciones
     url: '/actuaciones'
     weight: 20
