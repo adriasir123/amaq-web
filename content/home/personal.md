@@ -13,6 +13,7 @@ content:
   user_groups:
     - Mantenedores
     - Directores
+    - Presidente
 
 design:
   # Show user's social networking links? (true/false)
