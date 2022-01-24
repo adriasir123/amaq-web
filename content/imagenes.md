@@ -11,18 +11,8 @@ header:
   image: "actuaciones-banner.jpg"
 ---
 
-{{< gallery album="2017-insignia-oro-moi" >}}
-
 # 2017
 
 Entrega de la insignia de oro de la Asociación a Moisés Redaño López:
 
-![](/images/insignia-oro-moi-1.jpg)
-
-![](/images/insignia-oro-moi-2.jpg)
-
-![](/images/insignia-oro-moi-3.jpg)
-
-![](/images/insignia-oro-moi-4.jpg)
-
-![](/images/insignia-oro-moi-5.jpg)
+{{< gallery album="2017-insignia-oro-moi" >}}
