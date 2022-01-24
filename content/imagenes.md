@@ -1,10 +1,17 @@
 ---
 title: "Imágenes"
-description: "Nuestras imágenes ordenadas por año"
-featured_image: "/images/actuaciones-banner.jpg"
-type: page
-menu: main
+summary: "Nuestras imágenes ordenadas por año"
+
+profile: false  # Show author profile?
+comments: false  # Show comments?
+
+# Optional header image (relative to `assets/media/` folder).
+header:
+  caption: "actuaciones-banner.jpg"
+  image: "actuaciones-banner.jpg"
 ---
+
+{{< gallery album="<2017-insignia-oro-moi>" >}}
 
 # 2017
 
