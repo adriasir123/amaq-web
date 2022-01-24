@@ -20,7 +20,7 @@ main:
     url: '#posts'
     weight: 50
   - name: Personal
-    url: '/authors'
+    url: '/personal'
     weight: 60
   - name: Contacto
     url: '/contacto'
