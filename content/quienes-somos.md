@@ -1,9 +1,14 @@
 ---
 title: "Quiénes Somos"
-description: "A continuación encontrarás información sobre nuestra Asociación, y de dónde venimos"
-featured_image: "/images/quienes-somos-banner.jpg"
-type: page
-menu: main
+summary: "A continuación encontrarás información sobre nuestra Asociación, y de dónde venimos"
+
+reading_time: false  # Show estimated reading time?
+profile: false  # Show author profile?
+
+# Optional header image (relative to `assets/media/` folder).
+header:
+  caption: "quienes-somos-banner.jpg"
+  image: "quienes-somos-banner.jpg"
 ---
 
 # Historia
