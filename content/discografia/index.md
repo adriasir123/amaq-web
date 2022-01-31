@@ -1,6 +1,7 @@
 ---
 title: "Discografía"
 summary: "Nuestros trabajos discográficos"
+type: "widget_page"  # Page type is a Widget Page
 reading_time: false  # Show estimated reading time?
 profile: false  # Show author profile?
 
