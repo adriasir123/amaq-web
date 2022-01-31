@@ -25,7 +25,7 @@ Trabajo que ve su luz en el año 2002 y esta formado por un total de 10 marchas:
 - **Madre Hiniesta** --- Manuel Marvizón
 - **La Madrugá** --- Abel Moreno
 
-![](aires-cofrades.jpg "(Agradecemos a todas y cada una de las personas y entidades que hicieron posible la grabación de este disco)")
+![](aires-cofrades.jpg "###### (Agradecemos a todas y cada una de las personas y entidades que hicieron posible la grabación de este disco)")
 
 La Marcha Virgen de los Desamparados fue compuesta por Felipe Piñero en el año 1996 para la Virgen de los Desamparados, titular de la Hermandad de la Stma. Trinidad de Utrera, a la que acompañó durante muchísimos años.
 
