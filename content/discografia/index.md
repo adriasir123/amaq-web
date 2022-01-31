@@ -1,13 +1,13 @@
 ---
 title: "Discografía"
 summary: "Nuestros trabajos discográficos"
-type: "widget_page"  # Page type is a Widget Page
+
 reading_time: false  # Show estimated reading time?
 profile: false  # Show author profile?
 
 # Optional header image (relative to `assets/media/` folder).
 header:
-  caption: 
+  caption: "quienes-somos-banner.jpg"
   image: "quienes-somos-banner.jpg"
 ---
 
@@ -15,16 +15,16 @@ La Asociación Musical Álvarez Quintero posee en el mercado un trabajo discogr�
 
 Trabajo que ve su luz en el año 2002 y esta formado por un total de 10 marchas:
 
-- **Virgen de los Desamparados** --- Felipe Piñero
-- **Azahar de San Gonzalo** --- César Cadaval
-- **Caridad del Guadalquivir** --- Paco Lola
-- **Nuestro Pdre Jesús del Calvario** --- Abel Moreno
-- **Candelaria** --- Andrés Muñoz
-- **Mater Mea** --- Ricardo Dorado
-- **Reina de San Román** --- Ginés Sánchez
-- **Soledad de Madre** --- Jerónimo Sánchez
-- **Madre Hiniesta** --- Manuel Marvizón
-- **La Madrugá** --- Abel Moreno
+- Virgen de los Desamparados, de Felipe piñero
+- Azahar de San Gonzalo, de César Cadaval
+- Caridad del Guadalquivir, de Paco Lola
+- Nuestro Pdre Jesús del Calvario, de Abel Mreno
+- Candelaria, de Andrés Muñoz
+- Mater Mea, de Ricardo Dorado
+- Reina de San Román, de Ginés Sánchez
+- Soledad de Madre, de Jerónimo Sánchez
+- Madre Hiniesta, de Manuel Marvizón
+- La Madrugá, de Abel Moreno
 
 ![](aires-cofrades.jpg "(Agradecemos a todas y cada una de las personas y entidades que hicieron posible la grabación de este disco)")
 
